@@ -7,6 +7,7 @@
   <groupId>org.superbiz</groupId>
   <artifactId>feature-flipping-with-tomee</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <!--
   Side note: it uses tomee trunk but doesn't define apache repo
